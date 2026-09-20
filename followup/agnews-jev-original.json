@@ -1,0 +1,1802 @@
+[
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.91,
+    "conf": 0.87,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.61,
+    "conf": 0.47,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.56,
+    "conf": 0.41,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.9,
+    "conf": 0.86,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 0.79,
+    "conf": 0.72,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.97,
+    "conf": 0.96,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.98,
+    "conf": 0.97,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 0.68,
+    "conf": 0.57,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.89,
+    "conf": 0.85,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 0.99,
+    "conf": 0.98,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 0.99,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.98,
+    "conf": 0.98,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 0.99,
+    "conf": 0.98,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 0.63,
+    "conf": 0.5,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 0.99,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 0.98,
+    "conf": 0.98,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.55,
+    "conf": 0.39,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.78,
+    "conf": 0.71,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.94,
+    "conf": 0.92,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 0.95,
+    "conf": 0.92,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 0.99,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.86,
+    "conf": 0.82,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.91,
+    "conf": 0.88,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 0.89,
+    "conf": 0.86,
+    "y": "world"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 0.95,
+    "conf": 0.93,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.5,
+    "conf": 0.34,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 0.84,
+    "conf": 0.78,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 0.99,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.69,
+    "conf": 0.59,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 0.98,
+    "conf": 0.97,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 0.81,
+    "conf": 0.75,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 0.81,
+    "conf": 0.74,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 0.94,
+    "conf": 0.92,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 0.97,
+    "conf": 0.96,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 0.94,
+    "conf": 0.91,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 0.51,
+    "conf": 0.34,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 0.68,
+    "conf": 0.57,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 0.86,
+    "conf": 0.82,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 0.99,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 0.99,
+    "conf": 0.98,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 0.63,
+    "conf": 0.51,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 0.99,
+    "conf": 0.98,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.75,
+    "conf": 0.67,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.97,
+    "conf": 0.96,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.93,
+    "conf": 0.9,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 0.86,
+    "conf": 0.81,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 0.97,
+    "conf": 0.96,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 0.78,
+    "conf": 0.71,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 0.63,
+    "conf": 0.51,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 0.92,
+    "conf": 0.9,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 0.55,
+    "conf": 0.4,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.74,
+    "conf": 0.65,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.93,
+    "conf": 0.9,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 0.55,
+    "conf": 0.4,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 0.85,
+    "conf": 0.8,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.96,
+    "conf": 0.94,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 0.68,
+    "conf": 0.57,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 0.83,
+    "conf": 0.77,
+    "y": "sports"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.6,
+    "conf": 0.47,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 0.92,
+    "conf": 0.9,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 0.99,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.68,
+    "conf": 0.57,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 0.71,
+    "conf": 0.61,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 0.58,
+    "conf": 0.44,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.93,
+    "conf": 0.89,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 0.97,
+    "conf": 0.95,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 0.99,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 0.7,
+    "conf": 0.6,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.98,
+    "conf": 0.97,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.79,
+    "conf": 0.72,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.93,
+    "conf": 0.91,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 0.81,
+    "conf": 0.74,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 0.82,
+    "conf": 0.76,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 0.54,
+    "conf": 0.39,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.95,
+    "conf": 0.93,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.94,
+    "conf": 0.92,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.8,
+    "conf": 0.74,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 0.74,
+    "conf": 0.65,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 0.62,
+    "conf": 0.49,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 0.96,
+    "conf": 0.94,
+    "y": "world"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.94,
+    "conf": 0.92,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 0.99,
+    "conf": 0.98,
+    "y": "sports"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.99,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 0.86,
+    "conf": 0.82,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 0.54,
+    "conf": 0.38,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 0.7,
+    "conf": 0.6,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 0.97,
+    "conf": 0.96,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.83,
+    "conf": 0.77,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "world",
+    "p": 0.56,
+    "conf": 0.4,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.96,
+    "conf": 0.94,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.73,
+    "conf": 0.64,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.97,
+    "conf": 0.96,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 0.85,
+    "conf": 0.8,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 0.99,
+    "conf": 0.99,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sports"
+  },
+  {
+    "pred": "business",
+    "p": 0.99,
+    "conf": 0.99,
+    "y": "business"
+  },
+  {
+    "pred": "sports",
+    "p": 0.79,
+    "conf": 0.71,
+    "y": "sports"
+  },
+  {
+    "pred": "sports",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "business",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "business",
+    "p": 0.98,
+    "conf": 0.97,
+    "y": "business"
+  },
+  {
+    "pred": "sci_tech",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "sci_tech"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  },
+  {
+    "pred": "world",
+    "p": 1.0,
+    "conf": 1.0,
+    "y": "world"
+  }
+]
